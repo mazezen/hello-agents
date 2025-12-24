@@ -5,6 +5,11 @@
 1. <a href="https://github.com/datawhalechina/hello-agents/tree/main"><<从零开始构建智能体>>开源地址</a>
 2. <a href="https://datawhalechina.github.io/hello-agents/">在线阅读</a>
 
+## 注册所需账号
+
+1. OpenAI ChatGPT: https://platform.openai.com/docs/overview
+2. Google Serp API: https://serpapi.com/
+
 ## PDF 版本下载
 
 本 Hello-Agents PDF 教程完全开源免费。为防止各类营销号加水印后贩卖给多智能体系统初学者，我们特地在 PDF 文件中预先添加了不影响阅读的 Datawhale 开源标志水印，敬请谅解～

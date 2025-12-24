@@ -12,7 +12,17 @@
 
 ## 06chapter6 章节
 
-> 书中采用的是 gpt-4o 模型. 本案例采用的是 gpt-5-nano
+> AgentScopeDemo 书中采用的是 gpt-4o 模型. 本案例采用的是 gpt-5-nano
+>
+> CAMEL 书中采用 camel-ai==0.2.75. 本案例采用的是 camel-ai==0.2.79
+>
+> pip install camel-ai==0.2.79 需要 rust 环境,通过以下命令安装
+>
+> curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+>
+> brew install rust
+>
+> LangGraphDemo 书中采用的是 gpt-4o-mini 模型. 本案例采用的是 gpt-5-nano
 
 ## PDF 版本下载
 

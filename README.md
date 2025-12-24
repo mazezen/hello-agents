@@ -10,6 +10,10 @@
 1. OpenAI ChatGPT: https://platform.openai.com/docs/overview
 2. Google Serp API: https://serpapi.com/
 
+## 06chapter6 章节
+
+> 书中采用的是 gpt-4o 模型. 本案例采用的是 gpt-5-nano
+
 ## PDF 版本下载
 
 本 Hello-Agents PDF 教程完全开源免费。为防止各类营销号加水印后贩卖给多智能体系统初学者，我们特地在 PDF 文件中预先添加了不影响阅读的 Datawhale 开源标志水印，敬请谅解～

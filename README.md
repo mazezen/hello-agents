@@ -24,6 +24,14 @@
 >
 > LangGraphDemo 书中采用的是 gpt-4o-mini 模型. 本案例采用的是 gpt-5-nano
 
+## 注册 ModelScope 获取 API KEY
+
+> 它提供 Qwen 系列的免费（OpenAI）兼容格式的 API，每天免费 2000 次调用. ModelScope 地址: https://modelscope.cn/
+>
+> 需要绑定阿里云账号
+>
+> 参考在线文档: https://datawhalechina.github.io/handy-multi-agent/#/chapter1/1.2.api-setup
+
 ## PDF 版本下载
 
 本 Hello-Agents PDF 教程完全开源免费。为防止各类营销号加水印后贩卖给多智能体系统初学者，我们特地在 PDF 文件中预先添加了不影响阅读的 Datawhale 开源标志水印，敬请谅解～
